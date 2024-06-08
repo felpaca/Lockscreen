@@ -1,0 +1,2 @@
+Please do not remove any of these files, they are needed to let the application run. Without these files, you might experience bugs or other issues.
+This warning applies to: bin, images
