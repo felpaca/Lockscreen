@@ -8,3 +8,5 @@ PS: it may require administrator permissions to work properly.
 
 "Polar Locker © Polar Services. All Rights Reserved."
 Under no circumstances are you allowed to reproduce this project as your own. Any redistributions of this project will result in an immediate takedown request, failure to comply will result in legal activity being taken. If you have any questions or complaints please DM 'felpaca' on Discord.
+
+This application is currently not available as I am trying to figure out how to upload past the 25MB limit.
